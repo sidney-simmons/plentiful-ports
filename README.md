@@ -8,9 +8,7 @@ plentiful-ports is a java project to facilitate running multiple instances of th
 * Settings files and logs can be found in `[USER HOME]/.plentiful-ports`.
 * Each configured service will run the kubectl port-forward command within a separate thread.
 
-<p align="center">
-  <img src="documentation/screenshot.png" />
-</p>
+![Application screenshot!](documentation/screenshot.png)
 
 ## Usage
 
